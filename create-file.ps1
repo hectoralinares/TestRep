@@ -1,0 +1,1 @@
+New-Item -ItemType File -Path "C:\" -Name "Hello.txt" -Value "Test_original" -Force
